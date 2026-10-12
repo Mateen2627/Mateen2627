@@ -1,22 +1,20 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=210&section=header&text=Muhammad%20Mateen%20Sajjad&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%7C%20AI%20Agents%20%7C%20Software%20Development&descSize=16&descAlignY=57" width="100%" alt="Animated profile header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:172554,60:4F46E5,100:06B6D4&height=230&section=header&text=Muhammad%20Mateen%20Sajjad&fontSize=35&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%7C%20INTELLIGENT%20SYSTEMS%20%7C%20SOFTWARE%20ENGINEERING&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="Animated AI header"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Exploring+Artificial+Intelligence;Building+AI-Powered+Applications;Learning+AI+Agents+and+Intelligent+Systems;Exploring+Post-Quantum+Cryptography;Turning+Ideas+Into+Software" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=750&height=60&lines=Building+AI-Powered+Applications;Exploring+AI+Agents+%26+Machine+Learning;Developing+Intelligent+Systems;Researching+Post-Quantum+Security;Turning+Ideas+Into+Code" alt="Typing animation"/>
 </a>
 
 <p>
-<a href="https://github.com/Mateen2627">
-<img src="https://img.shields.io/badge/GitHub-Mateen2627-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://mateen2627.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
+<img src="https://img.shields.io/badge/FOCUS-Artificial%20Intelligence-4F46E5?style=for-the-badge&labelColor=020617" alt="AI focus"/>
+<img src="https://img.shields.io/badge/BUILDING-AI%20Agents-0891B2?style=for-the-badge&labelColor=020617" alt="AI agents"/>
+<img src="https://img.shields.io/badge/LOCATION-Pakistan-16A34A?style=for-the-badge&labelColor=020617" alt="Pakistan"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Mateen2627&style=flat-square&color=blueviolet" alt="Profile views"/>
+<a href="https://github.com/Mateen2627"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-white?style=flat-square&logo=github&logoColor=black" alt="GitHub"/></a>
+<a href="https://mateen2627.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
@@ -28,25 +26,27 @@ I'm **Muhammad Mateen Sajjad**, a Computer Science student at the National Unive
 
 I'm interested in Artificial Intelligence, Machine Learning, AI Agents, intelligent systems, and software engineering. I enjoy exploring how AI can be integrated into practical applications and automated workflows.
 
-- 🎓 BS Computer Science — NUML Multan
-- 📊 CGPA: 3.30/4.00
-- 🎯 Expected graduation: 2027
+- 🎓 **Education:** BS Computer Science — NUML Multan
+- 📊 **CGPA:** 3.30/4.00
+- 🎯 **Expected graduation:** 2027
 - 🤖 Exploring AI/ML, Generative AI, and AI Agents
 - 🔬 Interested in intelligent systems and AI research
 - 🔐 Exploring Post-Quantum Cryptography and secure communication
 - 🌱 Continuously learning through projects and experimentation
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,php,laravel,fastapi,js,html,css,mysql,git,github,flutter,dart&perline=6" alt="Technical skills"/>
-</p>
+<div align="center">
 
-**AI & Development:** Python, FastAPI, AI/ML fundamentals, OpenCV, REST APIs
+<img src="https://skillicons.dev/icons?i=python,php,laravel,fastapi,js,html,css,bootstrap,mysql,git,github,flutter,dart&perline=7" alt="Technology stack"/>
+
+</div>
+
+**AI & Backend:** Python, FastAPI, OpenCV, REST APIs
 
 **Web Development:** PHP, Laravel, JavaScript, HTML, CSS, Bootstrap
 
-**Database & Tools:** MySQL, Git, GitHub, n8n workflow automation
+**Database & Tools:** MySQL, Git, GitHub, n8n
 
 **Mobile Development:** Flutter, Dart
 
@@ -54,58 +54,59 @@ I'm interested in Artificial Intelligence, Machine Learning, AI Agents, intellig
 
 ## 🚀 Featured Projects
 
-### 1. Student Evaluation and Management System
+### 1. 🎓 Student Evaluation and Management System
 
-An academic management project integrating student evaluation and AI-based face-recognition attendance.
+An academic management system integrating student evaluation with AI-based face-recognition attendance.
 
-- **Backend:** Laravel MVC and PHP
+- **Backend:** Laravel MVC, PHP
 - **Database:** MySQL
 - **Frontend:** Bootstrap 5
-- **AI attendance service:** Python, FastAPI, OpenCV, dlib, face_recognition, NumPy
+- **AI service:** Python, FastAPI, OpenCV, dlib, face_recognition, NumPy
 - **Features:** Student management, role-based access control, academic evaluation, and face-recognition attendance
 
-### 2. QuantX — Post-Quantum Secure Communication
+### 2. 🔐 QuantX — Post-Quantum Secure Communication
 
 A research-oriented project exploring quantum-resilient communication and post-quantum cryptography.
 
-- Explores classical cryptographic approaches alongside post-quantum alternatives.
-- Research focus includes ML-KEM, ML-DSA, X25519, and ECDSA.
-- Associated research paper: **"Towards Quantum-Resilient Real-Time Communication Systems…"**
-- Research contribution includes exploring secure communication approaches for a post-quantum environment.
+- Explores classical cryptography alongside post-quantum alternatives.
+- Research technologies include ML-KEM, ML-DSA, X25519, and ECDSA.
+- Associated paper: *Towards Quantum-Resilient Real-Time Communication Systems…*
+- Focus: secure communication in a post-quantum environment.
 
-### 3. Chat with PDF Notes
+### 3. 📄 Chat with PDF Notes
 
-A document question-answering application that allows users to interact with PDF notes.
+A Python and Flask application for interacting with PDF notes and accessing document-based information.
 
-- Built with Python and Flask.
-- Focuses on making document-based information easier to access.
-- Developed collaboratively with Syed Marjan Ghazi and Muhammad Mudassir.
+- PDF-based question-answering concept
+- Developed collaboratively with Syed Marjan Ghazi and Muhammad Mudassir
 
-### 4. n8n Book Inventory AI Agent
+### 4. 🤖 n8n Book Inventory Agent
 
-A workflow automation project inspired by an AI-agent book inventory tutorial.
+A workflow automation project for managing book inventory records.
 
-- Built using n8n workflow automation.
-- Connects book inventory data with automated workflow steps.
-- Explores record lookup and inventory quantity updates.
+- n8n workflow automation
+- Inventory lookup and quantity updates
+- Exploration of AI-agent workflows and automated data operations
 
-### 5. Ghazali Food & Nooraniyah
+### 5. 💻 Ghazali Food & Nooraniyah
 
 Web development work completed during Laravel development work with UnionSoft.
 
 - PHP and Laravel
 - Database-driven web applications
-- Backend development and application functionality
+- Backend functionality and web development
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Mateen2627&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mateen2627&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
 
-<img height="175" src="https://streak-stats.demolab.com?user=Mateen2627&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Mateen2627&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateen2627&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+<br/>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateen2627&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
 
 </div>
 
@@ -129,13 +130,8 @@ Web development work completed during Laravel development work with UnionSoft.
 
 <div align="center">
 
-<a href="https://github.com/Mateen2627">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
-<a href="https://mateen2627.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
+<a href="https://github.com/Mateen2627"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://mateen2627.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
