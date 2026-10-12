@@ -1,56 +1,153 @@
-# Mateen Sajjad
+# Hi, I'm Muhammad Mateen Sajjad 👋
 
-**Computer Science Student | AI/ML Developer & Researcher | Full-Stack Developer**
+### BS Computer Science Student | AI/ML Enthusiast | Software Developer
 
-I am **Muhammad Mateen Sajjad, professionally known as Mateen Sajjad**, a Computer Science student at the **National University of Modern Languages (NUML), Multan, Pakistan**.
+I'm a Computer Science student at the **National University of Modern Languages (NUML), Multan Campus**, expected to graduate in January 2027.
 
-My primary interests are **Artificial Intelligence, Machine Learning, Natural Language Processing, Generative AI, AI Agents, and intelligent software systems**. I also explore software engineering, full-stack development, and research-oriented projects.
+I'm interested in building intelligent software systems that understand context, automate workflows, and help solve real-world problems. My current learning journey focuses on **Artificial Intelligence, Machine Learning, AI Agents, and Intelligent Systems**, alongside web development and secure software engineering.
 
-## Research Interests
+- 🤖 Exploring AI, Machine Learning, Generative AI, and AI Agents
+- 🧠 Interested in adaptive and context-aware intelligent systems
+- 💻 Building web applications, APIs, and automation workflows
+- 🔐 Exploring Post-Quantum Cryptography and secure communication
+- 🎓 Preparing for research-focused Master's opportunities for 2027
+- 🌍 Interested in open-source projects and collaborative learning
 
-* Artificial Intelligence & Machine Learning
-* Natural Language Processing
-* Generative AI
-* AI Agents
-* AI-powered Software Systems
-* Computer Vision
-* Secure and Reliable Computing
-* Post-Quantum Cryptography
+---
 
-## Featured Projects
+## 🧠 Areas of Interest
 
-### Student Evaluation and Management System with AI
+- Artificial Intelligence & Machine Learning
+- AI Agents and Workflow Automation
+- Intelligent and Adaptive Systems
+- Generative AI and LLM Applications
+- Computer Vision and Face Recognition
+- Post-Quantum Cryptography
+- Secure Software Systems
 
-An AI-assisted student evaluation and management system designed to support academic assessment, management, and intelligent features.
+## 🛠️ Technical Toolbox
 
-### QuantX
+**Languages**
+- Python
+- PHP
+- JavaScript
+- Dart
+- HTML & CSS
 
-A research-oriented platform exploring post-quantum secure communication and cryptographic algorithms.
+**Frameworks & Development**
+- Laravel
+- FastAPI
+- Flask
+- Flutter
+- Bootstrap
 
-### PDF Notes Chat
+**AI & Data**
+- OpenCV
+- NumPy
+- Machine Learning fundamentals
+- Face Recognition
+- Generative AI and AI Agent workflows
 
-An AI-powered application for interacting with and extracting information from PDF notes.
+**Databases & Tools**
+- MySQL
+- REST APIs
+- Git & GitHub
+- n8n
+- Visual Studio Code
 
-## Technical Skills
+---
 
-**Languages:** Python, PHP, JavaScript, Dart, HTML, CSS
+## 🚀 Featured Projects
 
-**Frameworks & Technologies:** Laravel, FastAPI, Flutter, MySQL, REST APIs
+### 🎓 Student Evaluation & Management System
+A student management project incorporating AI-based face recognition for attendance.
 
-**AI/ML:** Machine Learning, Computer Vision, Generative AI, AI Agents
+- Student and academic management workflows
+- Face-recognition-based attendance
+- Role-based access control
+- Web application with a Python API component
 
-**Tools:** Git, GitHub, VS Code
+**Technologies:** Laravel, PHP, MySQL, Bootstrap, Python, FastAPI, OpenCV
 
-## Education
+[View Repository](https://github.com/Mateen2627/fyp)
 
-**BS Computer Science**
-National University of Modern Languages (NUML), Multan, Pakistan
-2023–2027
+### 🔐 QuantX — Post-Quantum Secure Communication
+A collaborative project exploring quantum-resistant communication and modern cryptographic techniques.
 
-## Connect With Me
+- Exploring post-quantum cryptographic algorithms
+- ML-KEM and ML-DSA
+- Secure communication architecture
+- Classical versus post-quantum cryptography
 
-* 🌐 [Personal Website](https://mateen2627.github.io/)
-* 💼 [LinkedIn](https://www.linkedin.com/in/mateen-sajjad/)
-* 💻 [GitHub](https://github.com/Mateen2627)
-* 🧩 [LeetCode](https://leetcode.com/u/mateen6767/)
-* 📷 [Instagram](https://www.instagram.com/_m3eeen/)
+### 📚 Chat with PDF Notes
+A document-question-answering application designed to help users interact with notes and PDF documents.
+
+**Technologies:** Python, Flask
+
+### 🤖 AI Book Inventory Agent
+An automation project exploring AI-assisted workflows for managing book inventory data.
+
+**Technologies:** n8n, AI automation, Airtable
+
+[View Repository](https://github.com/Mateen2627/n8n-book-inventory-agent)
+
+### 🌐 Personal Portfolio
+My personal website showcasing my background, projects, and learning journey.
+
+[Visit Portfolio](https://mateen2627.github.io/)
+
+---
+
+## 📈 My Learning Journey
+
+I'm continuously improving my practical skills through project development, experimentation, and hands-on learning.
+
+My current learning roadmap:
+
+AI Fundamentals  
+↓  
+Python for AI  
+↓  
+Machine Learning  
+↓  
+Generative AI & LLMs  
+↓  
+AI Agents & Automation  
+↓  
+Intelligent and Adaptive Systems
+
+My goal is to progress from building software applications to developing intelligent systems that can interpret context, use tools, and make adaptive decisions.
+
+---
+
+## 🎓 Academic Background
+
+**BS Computer Science**  
+National University of Modern Languages (NUML), Multan Campus
+
+- Expected graduation: January 2027
+- Current academic interests: AI/ML, intelligent systems, and applied computing
+- Interested in Master's research opportunities beginning in 2027
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with developers, AI enthusiasts, researchers, and students who enjoy building useful technology and learning together.
+
+- 💻 GitHub: [@Mateen2627](https://github.com/Mateen2627)
+- 🌐 Portfolio: [mateen2627.github.io](https://mateen2627.github.io/)
+
+Feel free to explore my repositories and follow my learning journey!
+
+**"Learn continuously. Build meaningfully. Make intelligence useful."**
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mateen2627&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateen2627&layout=compact&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Mateen2627&hide_border=true)
